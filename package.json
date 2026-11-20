@@ -1,0 +1,9 @@
+{
+  "name": "image-dither-studio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Apply classic dithering algorithms to local images and export the result as a PNG.",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
